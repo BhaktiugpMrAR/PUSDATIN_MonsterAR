@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tentara" size="50.000000 50.000000" />
+    <ImageTarget name="suster" size="50.000000 88.888885" />
+    <ImageTarget name="polisi2" size="50.000000 61.633663" />
+    <ImageTarget name="pilot" size="50.000000 47.000000" />
+    <ImageTarget name="pemadam" size="50.000000 52.222221" />
+    <ImageTarget name="masinis" size="50.000000 50.000000" />
+    <ImageTarget name="dokter" size="50.000000 79.127907" />
+    <ImageTarget name="astronot" size="50.000000 64.006027" />
+  </Tracking>
+</QCARConfig>
